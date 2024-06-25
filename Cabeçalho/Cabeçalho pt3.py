@@ -20,6 +20,10 @@ mult = multiplicar(numero1,numero2)
 div = divisão(numero1,numero2)
 sub = subtração(numero1,numero2)
 
+salariotransporte = vale(salario)
+
+salariodesc = desc(salario,penis)
+
 print(f"Soma: {soma}")
 print(f"Subtração: {sub}")
 print(f"Divisão: {div}")
